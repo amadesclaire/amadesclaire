@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Alex Madesclaire
 I'm a recent CS grad of the University of Mississippi. 
+Looking for work in London
 
 - 🔭 Working On: a job board for Data (Science/Engineering/Analyst) Roles written in Django 
 - 🌱 Learning: Angular and Cloud Computing
