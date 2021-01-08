@@ -4,7 +4,7 @@
 - 📫 Reach me: amadesclaire@pm.me 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Getting Married in June
-- 🔭 Working On: a job board and AirBnb clone in Django 
+- 🔭 Working On: A Job Board and Camp Site Booking App
 
 
 <!--
