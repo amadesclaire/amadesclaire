@@ -3,7 +3,7 @@
 - 🌱 Learning: React, Django, AWS 
 - 📫 Reach me: amadesclaire@pm.me 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Getting Married in June
+- ⚡ Fun fact: Getting Married in October
 
 
 <!--
