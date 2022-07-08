@@ -1,11 +1,12 @@
 ### Hi there 👋 I'm Alex Madesclaire
 
-- 🌱 Learning: React, Django, AWS 
+
 - 📫 Reach me: amadesclaire@pm.me 
 - 😄 Pronouns: He/Him
 
 
 <!--
+- 🌱 Learning: React, Django, AWS 
 - 🔭 Working On ../
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
