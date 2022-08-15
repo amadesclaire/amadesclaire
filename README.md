@@ -5,9 +5,9 @@
 - 😄 Pronouns: He/Him
 
 <hr/>
-Current Position
-
-Frontend Developer
+<b>Current Position</b>
+<br/>
+<b>Frontend Developer</b>
 Tribal Worldwide - London, UK
 <!--
 - 🌱 Learning: React, Django, AWS 
