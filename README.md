@@ -6,7 +6,7 @@
 
 <hr/>
 <b>Current Position</b>
-<br/>
+<br/><br/>
 <b>Frontend Developer</b>
 Tribal Worldwide - London, UK
 <!--
