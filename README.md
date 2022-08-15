@@ -4,7 +4,7 @@
 - 📫 Reach me: amadesclaire@pm.me 
 - 😄 Pronouns: He/Him
 
-
+<hr/>
 <!--
 - 🌱 Learning: React, Django, AWS 
 - 🔭 Working On ../
