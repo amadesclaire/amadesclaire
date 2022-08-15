@@ -7,7 +7,7 @@
 <hr/>
 <b>Current Position</b>
 <br/><br/>
-<b>Frontend Developer</b>
+<b>Frontend Developer</b><br/>
 Tribal Worldwide - London, UK
 <!--
 - 🌱 Learning: React, Django, AWS 
