@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Alex Madesclaire
 
-
-- 📫 Reach me: amadesclaire@pm.me 
 - 😄 Pronouns: He/Him
 
 <hr/>
