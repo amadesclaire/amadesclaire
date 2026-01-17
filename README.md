@@ -1,11 +1,7 @@
 ### Hi there 👋 I'm Alex Madesclaire
 
 
-<hr/>
-<b>Current Position</b>
-<br/><br/>
-<b> Developer</b><br/>
-Tribal Worldwide - London, UK
+
 <!--
 - 🌱 Learning: React, Django, AWS 
 - 🔭 Working On ../
