@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Alex Madesclaire
 
-- 😄 Pronouns: He/Him
 
 <hr/>
 <b>Current Position</b>
@@ -14,7 +13,7 @@ Tribal Worldwide - London, UK
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... 
-
+- 😄 Pronouns: He/Him
 -->
 
 
